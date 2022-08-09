@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MyMatrix">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MymatrixGUI/store/MyMatrix.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

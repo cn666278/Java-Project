@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Animal/Animal.iml" filepath="$PROJECT_DIR$/Animal/Animal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment1_Matrix/Assignment1_Matrix.iml" filepath="$PROJECT_DIR$/Assignment1_Matrix/Assignment1_Matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BlueBridgeCup/BlueBridgeCup.iml" filepath="$PROJECT_DIR$/BlueBridgeCup/BlueBridgeCup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CaseStudy1/CaseStudy1.iml" filepath="$PROJECT_DIR$/CaseStudy1/CaseStudy1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CheckPalindromeWithStringBuilder/CheckPalindromeWithStringBuilder.iml" filepath="$PROJECT_DIR$/CheckPalindromeWithStringBuilder/CheckPalindromeWithStringBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Circle/Circle.iml" filepath="$PROJECT_DIR$/Circle/Circle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CircleWithPrivateDataFields/CircleWithPrivateDataFields.iml" filepath="$PROJECT_DIR$/CircleWithPrivateDataFields/CircleWithPrivateDataFields.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CircleWithStaticMembers/CircleWithStaticMembers.iml" filepath="$PROJECT_DIR$/CircleWithStaticMembers/CircleWithStaticMembers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cloneable/Cloneable.iml" filepath="$PROJECT_DIR$/Cloneable/Cloneable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex1/Ex1.iml" filepath="$PROJECT_DIR$/Ex1/Ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex12/Ex12.iml" filepath="$PROJECT_DIR$/Ex12/Ex12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex13/Ex13.iml" filepath="$PROJECT_DIR$/Ex13/Ex13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex14/Ex14.iml" filepath="$PROJECT_DIR$/Ex14/Ex14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex15/Ex15.iml" filepath="$PROJECT_DIR$/Ex15/Ex15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex3/Ex3.iml" filepath="$PROJECT_DIR$/Ex3/Ex3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FinalAnimal/FinalAnimal.iml" filepath="$PROJECT_DIR$/FinalAnimal/FinalAnimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FindingLCM/FindingLCM.iml" filepath="$PROJECT_DIR$/FindingLCM/FindingLCM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FormatTable/FormatTable.iml" filepath="$PROJECT_DIR$/FormatTable/FormatTable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUI/GUI.iml" filepath="$PROJECT_DIR$/GUI/GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/HashMap/HashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashSet/HashSet.iml" filepath="$PROJECT_DIR$/HashSet/HashSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication-BlueBridgeCup1/JavaApplication-BlueBridgeCup1.iml" filepath="$PROJECT_DIR$/JavaApplication-BlueBridgeCup1/JavaApplication-BlueBridgeCup1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication1/JavaApplication1.iml" filepath="$PROJECT_DIR$/JavaApplication1/JavaApplication1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication10_Palindromes/JavaApplication10_Palindromes.iml" filepath="$PROJECT_DIR$/JavaApplication10_Palindromes/JavaApplication10_Palindromes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication10_PrintCalendar/JavaApplication10_PrintCalendar.iml" filepath="$PROJECT_DIR$/JavaApplication10_PrintCalendar/JavaApplication10_PrintCalendar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication11_SelectionSort/JavaApplication11_SelectionSort.iml" filepath="$PROJECT_DIR$/JavaApplication11_SelectionSort/JavaApplication11_SelectionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication12_BinarySearch/JavaApplication12_BinarySearch.iml" filepath="$PROJECT_DIR$/JavaApplication12_BinarySearch/JavaApplication12_BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication13_AnalyzingNumber/JavaApplication13_AnalyzingNumber.iml" filepath="$PROJECT_DIR$/JavaApplication13_AnalyzingNumber/JavaApplication13_AnalyzingNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication18_Point2D/JavaApplication18_Point2D.iml" filepath="$PROJECT_DIR$/JavaApplication18_Point2D/JavaApplication18_Point2D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication28/JavaApplication28.iml" filepath="$PROJECT_DIR$/JavaApplication28/JavaApplication28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication2_LoanCalculation/JavaApplication2_LoanCalculation.iml" filepath="$PROJECT_DIR$/JavaApplication2_LoanCalculation/JavaApplication2_LoanCalculation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication2_ShowCurrentTime/JavaApplication2_ShowCurrentTime.iml" filepath="$PROJECT_DIR$/JavaApplication2_ShowCurrentTime/JavaApplication2_ShowCurrentTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication30_nouse/JavaApplication30_nouse.iml" filepath="$PROJECT_DIR$/JavaApplication30_nouse/JavaApplication30_nouse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication37_BST/JavaApplication37_BST.iml" filepath="$PROJECT_DIR$/JavaApplication37_BST/JavaApplication37_BST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication38_咸鱼731/JavaApplication38_咸鱼731.iml" filepath="$PROJECT_DIR$/JavaApplication38_咸鱼731/JavaApplication38_咸鱼731.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication39/JavaApplication39.iml" filepath="$PROJECT_DIR$/JavaApplication39/JavaApplication39.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication3_Area/JavaApplication3_Area.iml" filepath="$PROJECT_DIR$/JavaApplication3_Area/JavaApplication3_Area.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication43/JavaApplication43.iml" filepath="$PROJECT_DIR$/JavaApplication43/JavaApplication43.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication4_BMI_Test/JavaApplication4_BMI_Test.iml" filepath="$PROJECT_DIR$/JavaApplication4_BMI_Test/JavaApplication4_BMI_Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication5_Chinese_Zodiac/JavaApplication5_Chinese_Zodiac.iml" filepath="$PROJECT_DIR$/JavaApplication5_Chinese_Zodiac/JavaApplication5_Chinese_Zodiac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication6_GuessNumber/JavaApplication6_GuessNumber.iml" filepath="$PROJECT_DIR$/JavaApplication6_GuessNumber/JavaApplication6_GuessNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication7_FindingGCD/JavaApplication7_FindingGCD.iml" filepath="$PROJECT_DIR$/JavaApplication7_FindingGCD/JavaApplication7_FindingGCD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication8_function/JavaApplication8_function.iml" filepath="$PROJECT_DIR$/JavaApplication8_function/JavaApplication8_function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication9_Random_char/JavaApplication9_Random_char.iml" filepath="$PROJECT_DIR$/JavaApplication9_Random_char/JavaApplication9_Random_char.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaAssignment2/JavaAssignment2.iml" filepath="$PROJECT_DIR$/JavaAssignment2/JavaAssignment2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFXApplication1/JavaFXApplication1.iml" filepath="$PROJECT_DIR$/JavaFXApplication1/JavaFXApplication1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFXApplication2_Movement/JavaFXApplication2_Movement.iml" filepath="$PROJECT_DIR$/JavaFXApplication2_Movement/JavaFXApplication2_Movement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFXApplication9_background/JavaFXApplication9_background.iml" filepath="$PROJECT_DIR$/JavaFXApplication9_background/JavaFXApplication9_background.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LargestNumber/LargestNumber.iml" filepath="$PROJECT_DIR$/LargestNumber/LargestNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkList/LinkList.iml" filepath="$PROJECT_DIR$/LinkList/LinkList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LotteryProgram/LotteryProgram.iml" filepath="$PROJECT_DIR$/LotteryProgram/LotteryProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MatrixEquation/MatrixEquation.iml" filepath="$PROJECT_DIR$/MatrixEquation/MatrixEquation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MymatrixGUI/MymatrixGUI.iml" filepath="$PROJECT_DIR$/MymatrixGUI/MymatrixGUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/NetBeansProjects.iml" filepath="$PROJECT_DIR$/.idea/NetBeansProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimeNumber/PrimeNumber.iml" filepath="$PROJECT_DIR$/PrimeNumber/PrimeNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortComparableObjects/SortComparableObjects.iml" filepath="$PROJECT_DIR$/SortComparableObjects/SortComparableObjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sudoku/Sudoku.iml" filepath="$PROJECT_DIR$/Sudoku/Sudoku.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestEdible/TestEdible.iml" filepath="$PROJECT_DIR$/TestEdible/TestEdible.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextAnimation/TextAnimation.iml" filepath="$PROJECT_DIR$/TextAnimation/TextAnimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/complier_assignment1/complier_assignment1.iml" filepath="$PROJECT_DIR$/complier_assignment1/complier_assignment1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maxSumSubset/maxSumSubset.iml" filepath="$PROJECT_DIR$/maxSumSubset/maxSumSubset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/备份6_21/备份6_21.iml" filepath="$PROJECT_DIR$/备份6_21/备份6_21.iml" />
+    </modules>
+  </component>
+</project>

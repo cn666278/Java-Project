@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MatrixEquation">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MatrixEquation/dist/MatrixEquation.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

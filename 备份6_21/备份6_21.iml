@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/备份6_21" isTestSource="false" packagePrefix="mymatrixgui" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Jama-1.0.31" level="project" />
+    <orderEntry type="library" name="Jama-1.0.3" level="project" />
+    <orderEntry type="library" name="MyJar" level="project" />
+    <orderEntry type="library" name="MyMatrix" level="project" />
+  </component>
+</module>
