@@ -42,7 +42,7 @@ public class Main {
 
         // Remove all items in arrayList1
         arrayList1.clear();
-//        arrayList1.removeAll(arrayList1); // 删除arraylist中的某一集合
+//        arrayList1.removeAll(arrayList1); // 删除arrayList中的某一集合
         System.out.println("arrayList1 (delete all): " + arrayList1);
 
 

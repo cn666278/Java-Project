@@ -3,11 +3,8 @@ import java.util.HashMap;
 import java.util.Map;
 /*
 * HashMap 是一个散列表，它存储的内容是键值对(key-value)映射。
-
 * HashMap 实现了 Map 接口，根据键的 HashCode 值存储数据，具有很快的访问速度，最多允许一条记录的键为 null，不支持线程同步。
-
 * HashMap 是无序的，即不会记录插入的顺序。
-
 * HashMap 继承于AbstractMap，实现了 Map、Cloneable、java.io.Serializable 接口。
 */
 
@@ -74,6 +71,7 @@ public class Main {
         for (int i : sites.keySet()) {
             System.out.println("key: " + i + " value: " + sites.get(i));
         }
+
         // 输出每一个value
         for(String value: sites.values()) {
             System.out.print(value + " ");
@@ -81,6 +79,5 @@ public class Main {
 
         sites.clear();
         System.out.println("\nThe hashmap is empty? " + sites.isEmpty());
-
     }
 }

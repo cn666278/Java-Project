@@ -54,6 +54,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaFXApplication9_background/JavaFXApplication9_background.iml" filepath="$PROJECT_DIR$/JavaFXApplication9_background/JavaFXApplication9_background.iml" />
       <module fileurl="file://$PROJECT_DIR$/LargestNumber/LargestNumber.iml" filepath="$PROJECT_DIR$/LargestNumber/LargestNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkList/LinkList.iml" filepath="$PROJECT_DIR$/LinkList/LinkList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LongestCommonSubsequence/LongestCommonSubsequence.iml" filepath="$PROJECT_DIR$/LongestCommonSubsequence/LongestCommonSubsequence.iml" />
       <module fileurl="file://$PROJECT_DIR$/LotteryProgram/LotteryProgram.iml" filepath="$PROJECT_DIR$/LotteryProgram/LotteryProgram.iml" />
       <module fileurl="file://$PROJECT_DIR$/MatrixEquation/MatrixEquation.iml" filepath="$PROJECT_DIR$/MatrixEquation/MatrixEquation.iml" />
       <module fileurl="file://$PROJECT_DIR$/MymatrixGUI/MymatrixGUI.iml" filepath="$PROJECT_DIR$/MymatrixGUI/MymatrixGUI.iml" />
@@ -65,6 +66,7 @@
       <module fileurl="file://$PROJECT_DIR$/TestEdible/TestEdible.iml" filepath="$PROJECT_DIR$/TestEdible/TestEdible.iml" />
       <module fileurl="file://$PROJECT_DIR$/TextAnimation/TextAnimation.iml" filepath="$PROJECT_DIR$/TextAnimation/TextAnimation.iml" />
       <module fileurl="file://$PROJECT_DIR$/complier_assignment1/complier_assignment1.iml" filepath="$PROJECT_DIR$/complier_assignment1/complier_assignment1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/longest common substring/longest common substring.iml" filepath="$PROJECT_DIR$/longest common substring/longest common substring.iml" />
       <module fileurl="file://$PROJECT_DIR$/maxSumSubset/maxSumSubset.iml" filepath="$PROJECT_DIR$/maxSumSubset/maxSumSubset.iml" />
       <module fileurl="file://$PROJECT_DIR$/备份6_21/备份6_21.iml" filepath="$PROJECT_DIR$/备份6_21/备份6_21.iml" />
     </modules>
