@@ -4,7 +4,7 @@ Java-Project
 ## 一些实用文章：
 1. [this的三种常用方法](https://blog.csdn.net/qq_46111881/article/details/118852294)  
 
-2. [HashMap详解](https://www.shuzhiduo.com/A/E35pLB7L5v/)  
+2. [HashMap详解](https://blog.csdn.net/shi_xiansheng/article/details/117792691)    
 
 3. [static的基本用法](https://blog.csdn.net/Caoqingqing521/article/details/111029339)  
 
