@@ -10,7 +10,7 @@ Java-Project
 
 4. [抽象类](https://blog.csdn.net/weixin_43761593/article/details/124925424)      
 
-5. [String/StringBuider/StringBuffer](https://blog.csdn.net/qq_47183158/article/details/12372951)  
+5. [String/StringBuider/StringBuffer](https://blog.csdn.net/qq_47183158/article/details/123729517)   
 
 6. [HashTable详解](https://blog.csdn.net/xiaxingyi/article/details/109328365?spm=1001.2101.3001.6650.4&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-4-109328365-blog-106472131.pc_relevant_multi_platform_whitelistv2_exp3w&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-4-109328365-blog-106472131.pc_relevant_multi_platform_whitelistv2_exp3w&utm_relevant_index=4)   
 
