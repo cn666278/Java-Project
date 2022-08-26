@@ -16,3 +16,10 @@ Java-Project
 
 7. [defaut方法](https://blog.csdn.net/qq_47183158/article/details/123729517)   
 
+8. [ArrayList & HashMap 扩容分析](https://www.csdn.net/tags/Mtjagg0sNzMxMTktYmxvZwO0O0OO0O0O.html)  
+
+   [ArrayList & HashMap 扩容机制](https://blog.csdn.net/qq_14936041/article/details/124961413)  
+   
+   [ArrayList 源码分析](https://blog.csdn.net/weixin_44783341/article/details/108560330)  
+   
+
